@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioPDuarte&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioPDuarte&show_icons=true&theme=radical)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MauricioPDuarte)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
